@@ -1,6 +1,6 @@
 # SleuthCPS 2025 Challenge: Hostage in the Elevator
 
-Welcome, investigators! This repository contains all the necessary files for the **SleuthCPS 2025 Day 5 - Final Challenge**.
+Welcome, investigators! This repository contains all the necessary files for the **CTF challenge for CS480**.
 
 ## CHALLENGE SCENARIO
 
@@ -23,8 +23,5 @@ This repository contains the following pieces of evidence:
 
 * **`Documents`**: Document files containing the necessary information to solve challenge.
 
-## OBJECTIVE
-
-Your goal is to analyze these artifacts to answer the questions provided and ultimately find the final flag. Once you have the flag, submit it via the Google Form provided on the official challenge [webpage](https://sleuthcps.ai).
 
 **Good luck!**
