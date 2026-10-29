@@ -1,4 +1,4 @@
-# SleuthCPS 2025 Challenge: Hostage in the Elevator
+# CTF Challenge: Hostage in the Elevator
 
 Welcome, investigators! This repository contains all the necessary files for the **CTF challenge for CS480**.
 
